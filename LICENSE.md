@@ -18,8 +18,6 @@ Limited: Licensee may use Software for the purpose of:
 
 This license is granted perpetually, as long as you do not materially breach it.
 
-Binary Restricted: Licensee may sublicense Software as a part of a larger work containing more than Software, distributed solely in Object or Binary form under a personal, non-sublicensable, limited license. Such redistribution shall be limited to 0 codebases.
-
 Non Assignable & Non-Transferable: Licensee may not assign or transfer his rights and duties under this license.
 
 Non-Commercial: Licensee may not use Software for commercial purposes. for the purpose of this license, commercial purposes means that a 3rd party has to pay in order to access Software or that the Website that runs Software is behind a paywall.

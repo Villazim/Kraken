@@ -1,4 +1,4 @@
-Kraken - Terms and conditions
+Kraken - License - Terms and conditions
 
 Preamble: This Agreement, signed on May 12, 2016 (hereinafter: Effective Date) governs the relationship between *, a Business Entity, (hereinafter: Licensee) and Villazim, a private person whose principal place of business is Villazim Corporation (hereinafter: Licensor). This Agreement sets the terms, rights, restrictions and obligations on using Kraken (hereinafter: The Software) created and owned by Licensor, as detailed herein
 
